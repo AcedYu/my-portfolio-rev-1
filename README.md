@@ -7,7 +7,7 @@ As of now, I am highly proficient in the usage of HTML, CSS, and Javascript. I a
 
 ## My Portfolio
 
-* [See Live Site](https://acedyu.github.io/my-portfolio/)
+* [See Live Site](https://acedyu.github.io/my-portfolio-rev-1/)
 
 ## Authors
 AcedYu
